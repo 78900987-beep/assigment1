@@ -1,0 +1,114 @@
+html {
+  font: 20px Arial, sans-serif;
+  background-color: #b85151;
+}
+
+
+body {
+  max-width: 1200px;
+  margin: 2rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  background-color: #b85151;
+}
+
+
+header {
+  background-image: linear-gradient(to bottom, #333, #666);
+}
+
+h1 {
+  font-size: 36px;
+}
+
+footer {
+  font-size: 14px;
+  background-image: linear-gradient(to bottom, #666, #333);
+}
+
+
+main {
+  float: left;
+  width: 70%;
+}
+
+.biography {
+  background-color: #f7f7f7;
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+
+.biography h2 {
+  font-variant: small-caps;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+figure {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f7f7f7;
+}
+
+figcaption {
+  font-variant: small-caps;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+q {
+  font-variant: small-caps;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  color: #333;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+aside {
+  float: right;
+  width: 30%;
+}
+
+.aside h3 {
+  font-variant: small-caps;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  text-decoration: none;
+}
+
+ul li a {
+  color: #06c;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #003;
+}
+
+form {
+  margin: 2rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+
+label {
+  font-variant: small-caps;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
